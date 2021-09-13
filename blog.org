@@ -1,0 +1,36 @@
+#+hugo_base_dir: .
+* PapaSmurf.gg
+:PROPERTIES:
+:EXPORT_HUGO_SECTION: post
+** Blog rants
+:PROPERTIES:
+:EXPORT_FILE_NAME: _index
+:END:
+Random thoughts and rants that have been created with org-mode and hugo
+
+* Posts
+:PROPERTIES:
+:EXPORT_HUGO_SECTION: post
+** Chompa Blogs
+:PROPERTIES:
+:EXPORT_FILE_NAME: chompa
+:EXPORT_DATE: 2021-09-06
+:END:
+#+begin_description
+what a great little pogchamp
+#+end_description
+
+ what a gamer
+```
+** Murderous Blog
+:PROPERTIES:
+:EXPORT_FILE_NAME: beth
+:EXPORT_DATE: 2021-09-02
+:END:
+ Beth
+*** Beth's great skills
+ - smart
+ - loyal
+ - wicked smrt
+*** More stuff
+    I love dota
