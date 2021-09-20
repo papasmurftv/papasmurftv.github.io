@@ -23,6 +23,7 @@ theme = "hello-friend-ng-hz"
   keywords = "homepage, blog"
   images = [""]
   defaultTheme = "dark"
+  contentTypeName = "posts"
 
   [[params.social]]
 	name = "twitch"
