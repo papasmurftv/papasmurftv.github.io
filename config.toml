@@ -2,7 +2,7 @@ baseURL = "http://papasmurf.gg/"
 languageCode = "en-us"
 title = "PapaSmurf.gg"
 # Adding a theme:
-theme = "hello-friend-ng"
+theme = "hello-friend-ng-hz"
 
 [params]
   dateform        = "Jan 2, 2006"
@@ -22,6 +22,7 @@ theme = "hello-friend-ng"
   description = "PapaSmurf's blog"
   keywords = "homepage, blog"
   images = [""]
+  defaultTheme = "dark"
 
   [[params.social]]
 	name = "twitch"
