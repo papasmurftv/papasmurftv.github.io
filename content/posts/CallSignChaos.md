@@ -10,12 +10,12 @@ draft = false
 
 Call Sign Chaos reflects on Jim Mattis's near 4 decades of experience in service to our country.  The book is divided into 3 parts: direct leadership, executive leadership, and strategic leadership. Jim Mattis recalls his lessons learned from Vietnam, Dessert Storm, Afghanistan, Iraq, NATO, Joint Forces Command, CENTCOM, and US Secretary of Defense.
 
-I wanted to compile a list of quotes from this book that stood out to me, for my own reference in the future.
-
 Mattis's overarching themes of initiative, intent, and bias for action are throughout the book and insightful.
 
 
 ## Quotes {#quotes}
+
+I wanted to compile a list of quotes from this book that stood out to me, for my own reference in the future.
 
 
 ### Direct Leadership {#direct-leadership}
