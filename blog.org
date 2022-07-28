@@ -11,7 +11,7 @@ Random thoughts and rants that have been created with org-mode and hugo
 * Posts
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: post
-** DONE Call Sign Chaos
+** TODO Call Sign Chaos
 CLOSED: [2021-09-22 Wed 21:31]
 :PROPERTIES:
 :EXPORT_FILE_NAME: CallSignChaos
