@@ -178,6 +178,9 @@ CLOSED: [2022-07-27 Wed 19:59]
 #+begin_description
 Luscious Strawberry Glazed Cheesecake Supreme
 #+end_description
+
+{{< tweet user="PapaSmurftv" id="1548382183215181826" >}}
+
 *** Ingredients
 **** Crust Ingredients
 - 1 cup flour
