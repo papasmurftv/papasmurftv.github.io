@@ -6,8 +6,7 @@ date = 2022-07-27T19:59:00-04:00
 draft = false
 +++
 
-{{&lt; tweet user="PapaSmurftv" id="1548382183215181826" &gt;}}
-
+{{< tweet user="PapaSmurftv" id="1548382183215181826" >}}
 
 ## Ingredients {#ingredients}
 
