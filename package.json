@@ -1,0 +1,24 @@
+{
+  "name": "papasmurftv.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "autoprefixer": "^10.4.7",
+    "postcss": "^8.4.14"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/papasmurftv/papasmurftv.github.io.git"
+  },
+  "author": "Eric Murphy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/papasmurftv/papasmurftv.github.io/issues"
+  },
+  "homepage": "https://github.com/papasmurftv/papasmurftv.github.io#readme"
+}
