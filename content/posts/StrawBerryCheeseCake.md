@@ -48,7 +48,7 @@ draft = false
 
 1.  Mix flour, sugar, lemon peel
 2.  Cut in butter until crumbly
-3.  Add 1 beaten egg yolk and 1/4 tsp vanilla, Mix Welland
+3.  Add 1 beaten egg yolk and 1/4 tsp vanilla, Mix well
 4.  Pat 1/3 of dough on bottom of 9" spring form pan with sides removed
 5.  Bake at 400 degrees for 8 mins
 6.  Cool
